@@ -1,2 +1,2 @@
-# SwiperOrDie
-2D Board Game
+# Zombie CLAN
+3d Survival Game
